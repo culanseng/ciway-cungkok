@@ -428,7 +428,7 @@ Please enable Javascript and return here.
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "FAQPage",
+  "@type": "FAQ SITUS MAHONGTOTO",
   "mainEntity": [
     {
       "@type": "Question",
