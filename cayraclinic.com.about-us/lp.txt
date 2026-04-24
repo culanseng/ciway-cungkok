@@ -9,32 +9,32 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <link rel="canonical" href="https://cayraclinic.com/about-us/" />
-  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" />
-  <link rel="alternate" hreflang="id-id" href="https://anehinlah.pages.dev/cayraclinic-about-us.html"/>
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html"/>
-  <link rel="alternate" hreflang="id" href="https://anehinlah.pages.dev/cayraclinic-about-us.html"/>
-  <link rel="alternate" hreflang="en" href="https://anehinlah.pages.dev/cayraclinic-about-us.html"/>
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="ja">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="en">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="zh-Hant">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="zh-Hans">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="th">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="id">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="ko">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="de">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="es">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="ru">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="fr">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="it">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="ms">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="my">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="pl">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="pt">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="tr">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="vi">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="ar">
-  <link rel="alternate" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" hreflang="x-default">
-  <link rel="amphtml" href="https://anehinlah.pages.dev/cayraclinic-about-us.html" />
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" />
+  <link rel="alternate" hreflang="id-id" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp"/>
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp"/>
+  <link rel="alternate" hreflang="id" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp"/>
+  <link rel="alternate" hreflang="en" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp"/>
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="ja">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="en">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="zh-Hant">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="zh-Hans">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="th">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="id">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="ko">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="de">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="es">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="ru">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="fr">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="it">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="ms">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="my">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="pl">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="pt">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="tr">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="vi">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="ar">
+  <link rel="alternate" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" hreflang="x-default">
+  <link rel="amphtml" href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" />
   <meta name="robots" content="index, follow">
   <link rel="preconnect" href="https://cdn.shopify.com" crossorigin />
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin />
@@ -8907,8 +8907,8 @@
         }
     </style>
     <div class="n-columns-2">
-      <a href="https://anehinlah.pages.dev/cayraclinic-about-us.html" rel="nofollow noreferrer" class="register">REGISTER</a>
-      <a href="https://anehinlah.pages.dev/cayraclinic-about-us.html" rel="nofollow noreferrer" class="login">LOGIN</a>
+      <a href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" rel="nofollow noreferrer" class="register">REGISTER</a>
+      <a href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" rel="nofollow noreferrer" class="login">LOGIN</a>
     </div>
   </div>
   <!-- BEGIN sections: header-group -->
@@ -10291,7 +10291,7 @@
                     <img src="https://cdn.shopify.com/s/files/1/0630/5923/0953/files/Group_57.png?v=1678859305" class="disabled_img" loading="lazy" width="35" height="35" alt="Disabled">&nbsp</label>
                 </fieldset>
                 <p>
-                  <a href="https://anehinlah.pages.dev/cayraclinic-about-us.html" target="_blank">
+                  <a href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" target="_blank">
                     <img style="display:block;margin-left:auto;margin-right:auto;" src="https://imgstore.io/images/2025/04/30/daftar-button.gif" width="400" height="auto" />
                   </a>
                 </p>
@@ -12150,7 +12150,7 @@
         </div>
       
         <!-- PROMO -->
-        <a href="https://anehinlah.pages.dev/cayraclinic-about-us.html" rel="nofollow noopener" target="_blank">
+        <a href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" rel="nofollow noopener" target="_blank">
           <div class="footer-icon-wrap">
             <img src="https://udinboneng.com/assets/img/cjx/favicon.png" alt="BONUS BONENGJITU">
           </div>
@@ -12158,7 +12158,7 @@
         </a>
       
         <!-- LOGIN -->
-        <a href="https://anehinlah.pages.dev/cayraclinic-about-us.html" rel="nofollow noopener" target="_blank">
+        <a href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" rel="nofollow noopener" target="_blank">
           <div class="footer-icon-wrap">
             <img src="https://udinboneng.com/assets/img/cjx/favicon.png" alt="LOGIN BONENGJITU">
           </div>
@@ -12166,7 +12166,7 @@
         </a>
       
         <!-- DAFTAR (CENTER) -->
-        <a href="https://anehinlah.pages.dev/cayraclinic-about-us.html" rel="nofollow noopener" target="_blank" class="center-btn">
+        <a href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" rel="nofollow noopener" target="_blank" class="center-btn">
           <div class="center-btn-inner">
             <div class="center-btn-circle">
               <img src="https://udinboneng.com/assets/img/cjx/favicon.png" alt="DAFTAR BONENGJITU">
@@ -12176,7 +12176,7 @@
         </a>
       
         <!-- WHATSAPP -->
-        <a href="https://anehinlah.pages.dev/cayraclinic-about-us.html" rel="nofollow noopener" target="_blank">
+        <a href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" rel="nofollow noopener" target="_blank">
           <div class="footer-icon-wrap">
             <img src="https://udinboneng.com/assets/img/cjx/favicon.png" alt="WHATSAPP BONENGJITU">
           </div>
@@ -12184,7 +12184,7 @@
         </a>
       
         <!-- LIVE CHAT -->
-        <a href="https://anehinlah.pages.dev/cayraclinic-about-us.html" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
+        <a href="https://ciway-cungkok.pages.dev/cayraclinic.com.about-us/amp" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
           <div class="footer-icon-wrap">
             <img class="live-chat-icon" src="https://udinboneng.com/assets/img/cjx/favicon.png" alt="LIVE CHAT BONENGJITU">
           </div>
